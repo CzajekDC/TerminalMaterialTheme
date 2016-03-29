@@ -21,3 +21,6 @@ This is a material theme for Terminal window on Mac OSX.
 Proudly made by Dariusz Czajkowski. Born in Kraków, Poland.
 Check out my website here: http://dczajkowski.com/
 And check out my Twitter here: http://twitter.com/CzajkowskiDarek
+
+## License
+The license can be found in `License.md` file.
