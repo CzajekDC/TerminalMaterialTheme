@@ -18,9 +18,11 @@ This is a material theme for Terminal window on Mac OSX.
 ![](https://raw.githubusercontent.com/CzajekDC/TerminalMaterialTheme/master/Screenshots/ScreenshotColors.png)
 
 ## Credits
-Proudly made by Dariusz Czajkowski. Born in Kraków, Poland.
+Proudly made by Dariusz Czajkowski.
+
 Check out my website here: http://dczajkowski.com/
-And check out my Twitter here: http://twitter.com/CzajkowskiDarek
+
+And check out my Twitter profile here: http://twitter.com/CzajkowskiDarek
 
 ## License
 The license can be found in `License.md` file.
