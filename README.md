@@ -13,9 +13,9 @@ This is a material theme for Terminal window on Mac OSX.
 8. Enjoy!
 
 ## Sreenshots
-!(https://github.com/CzajekDC/TerminalMaterialTheme/Screenshots/ScreenshotComposer.png)
-!(https://github.com/CzajekDC/TerminalMaterialTheme/Screenshots/ScreenshotArtisan.png)
-!(https://github.com/CzajekDC/TerminalMaterialTheme/Screenshots/ScreenshotColors.png)
+!(https://raw.githubusercontent.com/CzajekDC/TerminalMaterialTheme/master/Screenshots/ScreenshotComposer.png)
+!(https://raw.githubusercontent.com/CzajekDC/TerminalMaterialTheme/master/Screenshots/ScreenshotArtisan.png)
+!(https://raw.githubusercontent.com/CzajekDC/TerminalMaterialTheme/master/Screenshots/ScreenshotColors.png)
 
 ## Credits
 Proudly made by Dariusz Czajkowski. Born in Kraków, Poland.
