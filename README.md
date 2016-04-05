@@ -7,7 +7,11 @@
 * [Issues](#issues)
 
 ## Overview
-This is a material theme for Terminal window on Mac OSX. It is based on a [Sublime Text theme](https://github.com/equinusocio/material-theme) I higly suggest to use.
+This is a material theme for Terminal window on Mac OSX. It is based on a [Sublime Text theme](https://github.com/equinusocio/material-theme) I highly suggest to use.
+
+There are also other editors such as *Atom*, *Vim*, *IntelliJ IDEA* and more that support the material theme. 
+
+This theme is somewhat similar to [this theme](https://gist.github.com/mvaneijgen/4c56701215847dd5ddcf) although was created entirely from scratch and without even knowing that one existed. I believe my theme is made with more care, but judge on your own :)
 
 ## Installation
 1. Open your `Terminal` app. (`cmd` + `space`, then type `terminal` + `enter`).
