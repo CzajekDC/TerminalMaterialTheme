@@ -14,6 +14,8 @@ There are also other editors such as *Atom*, *Vim*, *IntelliJ IDEA* and more tha
 This theme is somewhat similar to [this theme](https://gist.github.com/mvaneijgen/4c56701215847dd5ddcf) although was created entirely from scratch and without even knowing that one existed. I believe my theme is made with more care, but judge on your own :)
 
 ## Installation
+The only file you will really need is `MaterialDesign.terminal`. You can download it and don't care about other.
+
 1. Open your `Terminal` app. (`cmd` + `space`, then type `terminal` + `enter`).
 2. Click `cmd` + `,`.
 3. Navigate to `Profiles` tab.
