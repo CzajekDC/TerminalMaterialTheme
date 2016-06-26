@@ -11,13 +11,13 @@ This is a material theme for Terminal window on Mac OSX. It is based on a [Subli
 
 There are also other editors such as *Atom*, *Vim*, *IntelliJ IDEA* and more that support the material theme. 
 
-This theme is somewhat similar to [this theme](https://gist.github.com/mvaneijgen/4c56701215847dd5ddcf) although was created entirely from scratch and without even knowing that one existed. I believe my theme is made with more care, but judge on your own :)
+This theme is somewhat similar to [this one](https://gist.github.com/mvaneijgen/4c56701215847dd5ddcf) although was created entirely from scratch and without even knowing that one existed. I believe my theme is made with more care, but judge on your own :)
 
 ## Installation
-The only file you will really need is `MaterialDesign.terminal`. You can download it and don't care about other.
+The only file you will really need is `MaterialDesign.terminal`. You can download it and don't care about the other.
 
 1. Open your `Terminal` app. (`cmd` + `space`, then type `terminal` + `enter`).
-2. Click `cmd` + `,`.
+2. Type `cmd` + `,`.
 3. Navigate to `Profiles` tab.
 4. Click the gear icon.
 5. Click `Import...`.
@@ -38,7 +38,7 @@ Check out my website here: http://dczajkowski.com/
 And check out my Twitter profile here: http://twitter.com/CzajkowskiDarek
 
 ## License
-The license can be found in `License.md` file.
+The license can be found in the `LICENSE.md` file.
 
 ## Issues
 Any issues report here, at the [GitHub repo](https://github.com/CzajekDC/TerminalMaterialTheme). For any personal inquires, you can contact me via contact form at my [website](http://dczajkowski.com/#/contact).
